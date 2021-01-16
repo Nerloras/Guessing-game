@@ -1,2 +1,2 @@
 # Guessing-game
-A simple guessing game
+A guessing game made in Flask and AJAX
